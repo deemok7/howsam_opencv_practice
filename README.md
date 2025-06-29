@@ -17,3 +17,13 @@ For more information about the course, please visit:
 ### Practice links
 
 - [Useful Links](useful_links.md)
+
+- [introduction](/codes/introduction)
+
+- [section_zero](/codes/section_zero)
+
+- [week_01_intro](/codes/week_01_intro)
+
+- [week_02_image_formation](/codes/week_02_image_formation)
+
+- [week_03_digital_image](/codes/week_03_digital_image)
