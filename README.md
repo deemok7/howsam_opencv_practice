@@ -27,3 +27,7 @@ For more information about the course, please visit:
 - [week_02_image_formation](/codes/week_02_image_formation)
 
 - [week_03_digital_image](/codes/week_03_digital_image)
+
+- [week_04_video](/codes/week_04_video)
+
+- [week_05_opencv_commands](/codes/week_05_opencv_commands)
