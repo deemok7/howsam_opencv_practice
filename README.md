@@ -31,3 +31,7 @@ For more information about the course, please visit:
 - [week_04_video](/codes/week_04_video)
 
 - [week_05_opencv_commands](/codes/week_05_opencv_commands)
+
+- [week_06_color_space](/codes/week_06_color_space)
+
+- [week_07_geometric_transformations](/codes/week_07_geometric_transformations)

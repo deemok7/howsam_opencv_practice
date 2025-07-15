@@ -32,9 +32,12 @@
 - [arxiv](https://arxiv.org/)
 
 - [Papers With Code](https://paperswithcode.com/)
-- Color space understanding [1](https://medium.com/data-science/understand-and-visualize-color-spaces-to-improve-your-machine-learning-and-deep-learning-models-4ece80108526)  [2](https://towardsdatascience.com/from-rgb-to-hsv-and-back-again/)  [3](https://softscients.com/2024/07/24/color-spaces-rgb-hsv-lab-cielab/)
 
-### Softwares
+- Color space understanding [1](https://medium.com/data-science/understand-and-visualize-color-spaces-to-improve-your-machine-learning-and-deep-learning-models-4ece80108526) [2](https://towardsdatascience.com/from-rgb-to-hsv-and-back-again/) [3](https://softscients.com/2024/07/24/color-spaces-rgb-hsv-lab-cielab/)
+
+- [Math is fun](https://www.mathsisfun.com/) --> [Transformations and Matrices](https://www.mathsisfun.com/algebra/matrix-transform.html)
+
+### Software
 
 - [ImLab](https://imlab.sourceforge.net/)
 
